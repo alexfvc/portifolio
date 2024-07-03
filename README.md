@@ -5,5 +5,6 @@ Sempre tive uma paixão por ciências exatas, iniciando minha trajetória acadê
 
 Ao longo do curso de Física, trabalhei intensivamente com coleta e análise de dados experimentais, atuando como monitor voluntário em Física Experimental 4. Esse período foi fundamental para desenvolver minhas habilidades práticas e técnicas, reforçando minha capacidade de identificar padrões e tendências em conjuntos de dados complexos. Além disso, participei do Programa Institucional de Bolsa de Iniciação à Docência (PIBID), acumulando sete anos de experiência na educação, onde aprimorei minhas habilidades de comunicação e explicação de conceitos complexos.
 
-Em 2021, concluí cursos de Python e Banco de Dados, o que reacendeu meu interesse pela análise de dados. Atualmente, estou cursando Data Science na Awari, onde estou aprimorando minhas habilidades técnicas e conhecendo ferramentas avançadas de análise de dados. Estou determinado a aplicar todo o conhecimento adquirido para ajudar empresas a resolver desafios complexos e gerar insights significativos, contribuindo de forma impactante no campo da ciência de dados.
+Em 2021, concluí cursos de Python e Banco de Dados, o que reacendeu meu interesse pela análise de dados. Atualmente, estou cursando Data Science na Awari, onde estou aprimorando minhas habilidades técnicas e conhecendo ferramentas avançadas de análise de dados. Estou determinado a aplicar todo o conhecimento adquirido para ajudar empresas a resolver desafios complexos e gerar insights significativos.
+
 
