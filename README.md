@@ -1,6 +1,6 @@
 
 # portifolio
-portifolio 
+
 
 Sempre tive uma paixão por ciências exatas, iniciando minha trajetória acadêmica em Engenharia Civil no Centro Universitário de Brasília e, posteriormente, cursando Física na Universidade de Brasília. Foi durante meu estágio no extinto Ministério da Previdência Social que tive minha primeira experiência com análise de dados, produzindo relatórios baseados em anuários estatísticos. Essa experiência inicial despertou meu interesse pela análise de dados e me motivou a aprofundar meus conhecimentos na área.
 
@@ -27,7 +27,7 @@ Em 2021, concluí cursos de Python e Banco de Dados, o que reacendeu meu interes
 <a href="https://www.linkedin.com/in/alex-furtado-vilela-costa-24016ba5/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
-#Informações do github
+# Informações do github
 
 <div>
 <a href="https://github.com/alexfvc">
@@ -35,7 +35,7 @@ Em 2021, concluí cursos de Python e Banco de Dados, o que reacendeu meu interes
 </div> 
 
 
-#Projetos e estudos:
+# Projetos e estudos:
 
 https://alexfvc.github.io/portifolio/
 
