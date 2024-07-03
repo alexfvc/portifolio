@@ -8,7 +8,9 @@ Ao longo do curso de Física, trabalhei intensivamente com coleta e análise de 
 Em 2021, concluí cursos de Python e Banco de Dados, o que reacendeu meu interesse pela análise de dados. Atualmente, estou cursando Data Science na Awari, onde estou aprimorando minhas habilidades técnicas e conhecendo ferramentas avançadas de análise de dados. Estou determinado a aplicar todo o conhecimento adquirido para ajudar empresas a resolver desafios complexos e gerar insights significativos.
 
   🔭 Atualmente estou trabalhando com professor de física.
+  
   🌱 Atualmente estou aprendendo 
+  
   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
   
