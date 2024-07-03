@@ -32,6 +32,7 @@ Informações do github
 <div>
 <a href="https://github.com/alexfvc">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexfvc&layout=compact&langs_count=7&theme=dracula"/>
+</div> 
 
 
 Projetos e estudos:
