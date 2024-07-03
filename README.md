@@ -13,18 +13,18 @@ Em 2021, concluí cursos de Python e Banco de Dados, o que reacendeu meu interes
   
   🌱 Atualmente estou aprendendo 
   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="40" height="40" />
-
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"  />
   
-  👯 Estou procurando colaborar em ...
+  👯 Estou procurando colaborar em projetos de analise de dados.
   
   🤔 Estou procurando ajuda com ...
   
-  💬 Pergunte-me sobre ...
+  💬 Pergunte-me sobre os projetos que estou fazendo na escola usando python e selenium.
   
-  📫 Como entrar em contato comigo: ...
+  📫 Como entrar em contato comigo: <div>
 
 
-<i class="devicon-selenium-original"></i>
-          
+<a href = "mailto:alexfvc@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+<a href="https://www.linkedin.com/in/alex-furtado-vilela-costa-24016ba5/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
