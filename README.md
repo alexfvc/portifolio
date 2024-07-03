@@ -26,17 +26,23 @@ Em 2021, concluí cursos de Python e Banco de Dados, o que reacendeu meu interes
 <a href="https://www.linkedin.com/in/alex-furtado-vilela-costa-24016ba5/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
-Projetos e estudos: 
+Informações do github
 
 <div>
 <a href="https://github.com/alexfvc">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexfvc&layout=compact&langs_count=7&theme=dracula"/>
 
-<a href="https://github.com/alexfvc/campeonato-paulista" target="_blank"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/pt/7/71/Federa%C3%A7%C3%A3o_Paulista_de_Futebol_logo.png" target="_blank"></a>
+
+Projetos e estudos:
+
+
+
+<!-- <a href="https://github.com/alexfvc/campeonato-paulista" target="_blank"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/pt/7/71/Federa%C3%A7%C3%A3o_Paulista_de_Futebol_logo.png" target="_blank"></a>
 
 
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=alexfvc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+-->
 
 
 
