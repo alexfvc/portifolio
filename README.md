@@ -27,7 +27,7 @@ Em 2021, concluí cursos de Python e Banco de Dados, o que reacendeu meu interes
 <a href="https://www.linkedin.com/in/alex-furtado-vilela-costa-24016ba5/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
-Informações do github
+#Informações do github
 
 <div>
 <a href="https://github.com/alexfvc">
@@ -35,7 +35,7 @@ Informações do github
 </div> 
 
 
-Projetos e estudos:
+#Projetos e estudos:
 
 https://alexfvc.github.io/portifolio/
 
