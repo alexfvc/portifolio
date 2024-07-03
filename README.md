@@ -24,7 +24,7 @@ Em 2021, concluí cursos de Python e Banco de Dados, o que reacendeu meu interes
   📫 Como entrar em contato comigo: <div>
 
 
-<a href = "https://criarmeulink.com.br/u/1720033846"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
+<a href = "https://criarmeulink.com.br/u/1720033846"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank" ></a>
 
-<a href="https://www.linkedin.com/in/alex-furtado-vilela-costa-24016ba5/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer"></a>   
+<a href="https://www.linkedin.com/in/alex-furtado-vilela-costa-24016ba5/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>   
 </div>
