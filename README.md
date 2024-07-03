@@ -38,7 +38,13 @@ Em 2021, concluí cursos de Python e Banco de Dados, o que reacendeu meu interes
 # Projetos e estudos:
 
 O link acima tem um facilitador que criei para navegar nos principais repositorios do meu github.
+
 https://alexfvc.github.io/portifolio/
+
+# Contatos:
+
+https://alexfvc.github.io/portifolio/
+
 
 
 
