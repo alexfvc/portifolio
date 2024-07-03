@@ -8,7 +8,6 @@ Ao longo do curso de Física, trabalhei intensivamente com coleta e análise de 
 Em 2021, concluí cursos de Python e Banco de Dados, o que reacendeu meu interesse pela análise de dados. Atualmente, estou cursando Data Science na Awari, onde estou aprimorando minhas habilidades técnicas e conhecendo ferramentas avançadas de análise de dados. Estou determinado a aplicar todo o conhecimento adquirido para ajudar empresas a resolver desafios complexos e gerar insights significativos.
 
 
-
   🔭 Atualmente estou trabalhando com professor de física.
   
   🌱 Atualmente estou aprendendo 
@@ -22,9 +21,25 @@ Em 2021, concluí cursos de Python e Banco de Dados, o que reacendeu meu interes
   💬 Pergunte-me sobre os projetos que estou fazendo na escola usando python e selenium.
   
   📫 Como entrar em contato comigo: <div>
+<a href = "mailto:alexfvc@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>  :  alexfvc@gmail.com
 
-
-<a href = "mailto:alexfvc@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>      alexfvc@gmail.com
-
-<a href="https://www.linkedin.com/in/alex-furtado-vilela-costa-24016ba5/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/alex-furtado-vilela-costa-24016ba5/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
+
+Projetos e estudos: 
+
+<div>
+<a href="https://github.com/alexfvc">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexfvc&layout=compact&langs_count=7&theme=dracula"/>
+
+<a href="https://github.com/alexfvc/campeonato-paulista" target="_blank"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/pt/7/71/Federa%C3%A7%C3%A3o_Paulista_de_Futebol_logo.png" target="_blank"></a>
+
+
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=alexfvc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
+
+
+
+
