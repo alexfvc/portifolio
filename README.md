@@ -12,9 +12,8 @@ Em 2021, concluí cursos de Python e Banco de Dados, o que reacendeu meu interes
   🔭 Atualmente estou trabalhando com professor de física.
   
   🌱 Atualmente estou aprendendo 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" />
-            
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="40" height="40" />
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="40" height="40" />
 
 
   
