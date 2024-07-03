@@ -12,8 +12,8 @@ Em 2021, concluí cursos de Python e Banco de Dados, o que reacendeu meu interes
   🌱 Atualmente estou aprendendo 
   
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-                   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" fill="rgb(255,255,255)" width="40" height="40" />
+<i class="devicon-selenium-original"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" fill="rgb(255,255,255)" width="40" height="40" />
 
 
   
