@@ -22,3 +22,7 @@ Em 2021, concluí cursos de Python e Banco de Dados, o que reacendeu meu interes
   💬 Pergunte-me sobre ...
   
   📫 Como entrar em contato comigo: ...
+
+
+<i class="devicon-selenium-original"></i>
+          
