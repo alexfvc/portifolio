@@ -37,9 +37,10 @@ Em 2021, concluí cursos de Python e Banco de Dados, o que reacendeu meu interes
 
 # Projetos e estudos:
 
+O link acima tem um facilitador que criei para navegar nos principais repositorios do meu github.
 https://alexfvc.github.io/portifolio/
 
-o link acima tem um facilitador para navegar nos principais repositorios do meu github. 
+
 
 <!-- <a href="https://github.com/alexfvc/campeonato-paulista" target="_blank"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/pt/7/71/Federa%C3%A7%C3%A3o_Paulista_de_Futebol_logo.png" target="_blank"></a>
 
