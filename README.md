@@ -1,5 +1,6 @@
+
 # portifolio
-portifolio 
+
 
 Sempre tive uma paixão por ciências exatas, iniciando minha trajetória acadêmica em Engenharia Civil no Centro Universitário de Brasília e, posteriormente, cursando Física na Universidade de Brasília. Foi durante meu estágio no extinto Ministério da Previdência Social que tive minha primeira experiência com análise de dados, produzindo relatórios baseados em anuários estatísticos. Essa experiência inicial despertou meu interesse pela análise de dados e me motivou a aprofundar meus conhecimentos na área.
 
@@ -12,7 +13,7 @@ Em 2021, concluí cursos de Python e Banco de Dados, o que reacendeu meu interes
   
   🌱 Atualmente estou aprendendo 
   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"  />
+<  img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40"  height="40" />  < img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"   width="40" height="40" />  < img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  width="40" height="40"  />
   
   👯 Estou procurando colaborar em projetos de analise de dados.
   
@@ -26,14 +27,24 @@ Em 2021, concluí cursos de Python e Banco de Dados, o que reacendeu meu interes
 <a href="https://www.linkedin.com/in/alex-furtado-vilela-costa-24016ba5/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
-Informações do github
+# Informações do github
 
 <div>
 <a href="https://github.com/alexfvc">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexfvc&layout=compact&langs_count=7&theme=dracula"/>
+</div> 
 
 
-Projetos e estudos:
+# Projetos e estudos:
+
+O link acima tem um facilitador que criei para navegar nos principais repositorios do meu github.
+
+https://alexfvc.github.io/portifolio/
+
+# Contatos:
+
+https://alexfvc.github.io/portifolio/
+
 
 
 
