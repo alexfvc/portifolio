@@ -12,7 +12,7 @@ Em 2021, concluí cursos de Python e Banco de Dados, o que reacendeu meu interes
   🔭 Atualmente estou trabalhando com professor de física.
   
   🌱 Atualmente estou aprendendo 
-    PYTHON SELENIUM MYSQL
+    <p> PYTHON SELENIUM MYSQL </p>
   <p> <  img src="python_vertical_logo_icon_168039.webp" width="40"  height="40" /> < img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"   width="40" height="40" /> < img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  width="40" height="40"/> </p>
   
   
