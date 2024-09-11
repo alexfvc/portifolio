@@ -1,0 +1,197 @@
+/* Configurações do tema Dracula */
+:root {
+  --background-color: #282a36;
+  --background-color-dark: #181920;
+  --text-color: #f8f8f2;
+  --accent-color: #50fa7b;
+
+  --rgbCyan: rgb(139, 233, 253);
+  --rgbGreen: rgb(80, 250, 123);
+  --rgbOrange: rgb(255, 184, 108);
+  --rgbPink: rgb(255, 121, 198);
+  --rgbPurple: rgb(189, 147, 249);
+  --rgbYellow: rgb(241, 250, 140);
+  --rgbBackground: rgb(40, 42, 54);
+  --rgbForeground: rgb(248, 248, 242);
+  --title: "Abril Text";
+  --body: "Source Sans Pro";
+  --mono: "Fira Code";
+  --alpha: 0.7;
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+/* Aplica o tema Dracula ao site */
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+  font-family: "Instrument Sans", sans-serif;
+}
+
+header {
+  background-color: var(--background-color-dark);
+  color: var(--text-color);
+  padding: 20px;
+}
+
+header h1 {
+  margin-bottom: 10px;
+  border-bottom: 2px solid black;
+  color: VAR(--rgbPurple);
+}
+
+h1 {
+  font-size: 48px;
+  text-shadow: 2px 2px 5px black;
+}
+a {
+  text-decoration: none;
+
+  /* colocar texto veja verde*/
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+}
+
+nav a {
+  margin: 10px 30px;
+  padding: 18px;
+  color: var(--text-color);
+  transition: all 1s;
+  text-align: center;
+}
+
+nav a:hover {
+  color: var(--rgbGreen);
+  background-color: var(--background-color);
+  padding: 10px;
+  border-top: 1px solid var(--rgbPink);
+}
+main section {
+  padding: 50px;
+}
+
+main h2 {
+  font-size: 36px;
+  margin: 0 0 20px 0;
+  color: var(--rgbYellow);
+  text-shadow: 2px 2px 5px black;
+}
+
+main p {
+  font-size: 18px;
+  line-height: 1.5;
+  margin: 0 0 0 0;
+}
+
+main ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+main li {
+  flex: 1;
+  margin: 10px;
+  background-color: var(--background-color);
+  color: var(--text-color);
+  padding: 20px;
+  background-color: var(--background-color-dark);
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  background-clip: padding-box;
+  -webkit-background-clip: padding-box;
+  -moz-background-clip: padding-box;
+  position: relative;
+  max-height: 80%;
+}
+
+main li h3 {
+  font-size: 24px;
+  margin: 0 0 10px 0;
+}
+
+main li p {
+  font-size: 18px;
+  line-height: 1.5;
+  margin: 0 0 20px 0;
+}
+
+main li a {
+  color: var(--accent-color);
+  text-decoration: none;
+  transition: all 0.2s;
+  position: absolute;
+  bottom: 3%;
+  left: 20px;
+}
+
+main li a:hover {
+  color: var(--text-color);
+}
+
+#me-encontre img {
+  min-width: 100px;
+  margin: 15px;
+  border-radius: 15px;
+  background-color: white;
+}
+
+form label {
+  display: block;
+  font-size: 24px;
+  margin: 20px 0 10px 0;
+}
+
+form input,
+form textarea {
+  font-size: 18px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  width: 100%;
+  margin: 0 0 20px 0;
+}
+
+form input[type="submit"] {
+  background-color: var(--accent-color);
+  color: var(--text-color);
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+form input[type="submit"]:hover {
+  background-color: var(--text-color);
+  color: var(--accent-color);
+}
+
+footer {
+  background-color: var(--background-color-dark);
+}
+footer p {
+  padding: 15px;
+}
+div #a1 {
+  color: var(--rgbCyan);
+}
+img {
+  margin-top: 2%;
+  margin-bottom: 5%;
+}
+svg {
+  margin-top: 2%;
+  margin-bottom: 5%;
+}
+.clear {
+  clear: both;
+}
