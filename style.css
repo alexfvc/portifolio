@@ -48,7 +48,7 @@ h1 {
 }
 a {
   text-decoration: none;
-
+  display: block;
   /* colocar texto veja verde*/
 }
 
@@ -57,12 +57,13 @@ nav ul {
   display: flex;
 }
 
-nav a {
-  margin: 10px 30px;
+nav ul li {
   padding: 18px;
+}
+
+nav a {
   color: var(--text-color);
   transition: all 1s;
-  text-align: center;
 }
 
 nav a:hover {
