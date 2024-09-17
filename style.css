@@ -137,6 +137,10 @@ main li a {
 main li a:hover {
   color: var(--text-color);
 }
+#me-encontre a {
+  text-decoration: none;
+  display: inline;
+}
 
 #me-encontre img {
   min-width: 100px;
