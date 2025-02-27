@@ -1,0 +1,76 @@
+/* Resetar estilos básicos */
+body,
+h1,
+h2,
+ul,
+li,
+input,
+label,
+button {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --primary-color: #3498db;
+  --secondary-color: #2ecc71;
+  --font-size: 16px;
+}
+
+body {
+  color: var(--primary-color);
+  font-size: var(--font-size);
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f4f4f9;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  color: #333;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+.hidden {
+  display: none;
+}
+
+.container {
+  background-color: #fff;
+  padding: 30px;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 20px;
+  color: #4a90e2;
+}
+
+.nivel-filter,
+label,
+.series {
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.nivel-filter h2,
+#fundamental-options h2,
+#medio-options h2 {
+  flex-basis: 100%;
+  margin-bottom: 10px;
+}
+
+.nivel-filter label,
+#fundamental-options label,
+#medio-options label {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: 500;
+}

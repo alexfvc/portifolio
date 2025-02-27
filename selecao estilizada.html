@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Site para selecionar o nível de ensino e séries correspondentes."
+    />
+    <title>Questionário de Nível de Ensino</title>
+    <link rel="stylesheet" href="style selecao de nivel e turma.css" />
+  </head>
+
+  <body>
+    <div class="container">
+      <div>
+        <h1>Questionário para seleção de turma</h1>
+      </div>
+      <form>
+        <!-- Filtro de Nível de Ensino -->
+        <div class="nivel-filter">
+          <h2>Qual nível de ensino quer lançar?</h2>
+          <label>
+            <input
+              type="radio"
+              id="fundamental"
+              name="nivel"
+              value="fundamental"
+            />
+            Ensino Fundamental
+          </label>
+          <label>
+            <input
+              type="radio"
+              id="medio"
+              name="nivel"
+              value="medio"
+              autofocus
+            />
+            Ensino Médio
+          </label>
+        </div>
+
+        <!-- Filtro de Séries do Ensino Fundamental -->
+        <div id="fundamental-options" class="hidden">
+          <h2>Selecione as séries do Ensino Fundamental</h2>
+          <div class="series">
+            <label>
+              <input type="radio" name="fundamental-series" value="1" /> 1°
+            </label>
+            <label>
+              <input type="radio" name="fundamental-series" value="2" /> 2°
+            </label>
+            <label>
+              <input type="radio" name="fundamental-series" value="3" /> 3°
+            </label>
+            <label>
+              <input type="radio" name="fundamental-series" value="4" /> 4°
+            </label>
+            <label>
+              <input type="radio" name="fundamental-series" value="5" /> 5°
+            </label>
+            <label>
+              <input type="radio" name="fundamental-series" value="6" /> 6°
+            </label>
+            <label>
+              <input type="radio" name="fundamental-series" value="7" /> 7°
+            </label>
+            <label>
+              <input type="radio" name="fundamental-series" value="8" /> 8°
+            </label>
+            <label>
+              <input type="radio" name="fundamental-series" value="9" /> 9°
+            </label>
+          </div>
+        </div>
+
+        <!-- Filtro de Séries do Ensino Médio -->
+        <div id="medio-options" class="hidden">
+          <h2>Selecione as séries do Ensino Médio</h2>
+          <div class="series">
+            <label>
+              <input type="radio" name="medio-series" value="1" /> 1°
+            </label>
+            <label>
+              <input type="radio" name="medio-series" value="2" /> 2°
+            </label>
+            <label>
+              <input type="radio" name="medio-series" value="3" /> 3°
+            </label>
+          </div>
+        </div>
+      </form>
+    </div>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        document.getElementById("fundamental-options").classList.add("hidden");
+        document.getElementById("medio-options").classList.add("hidden");
+      });
+
+      document.querySelectorAll('input[name="nivel"]').forEach((radio) => {
+        radio.addEventListener("change", function () {
+          document
+            .getElementById("fundamental-options")
+            .classList.add("hidden");
+          document.getElementById("medio-options").classList.add("hidden");
+
+          if (this.value === "fundamental") {
+            document
+              .getElementById("fundamental-options")
+              .classList.remove("hidden");
+          } else if (this.value === "medio") {
+            document.getElementById("medio-options").classList.remove("hidden");
+          }
+        });
+      });
+    </script>
+  </body>
+</html>
