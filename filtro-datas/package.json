@@ -1,5 +1,5 @@
 {
-  "homepage": "https://alexfvc.github.io/portifolio/filtro-datas",
+  "homepage": "https://github.com/alexfvc/portifolio/filtro-datas",
   "name": "filtro-datas",
   "private": true,
   "version": "0.0.0",
@@ -11,7 +11,6 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
-
   },
   "dependencies": {
     "react": "^19.0.0",
