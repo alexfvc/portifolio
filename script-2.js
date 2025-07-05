@@ -65,6 +65,10 @@ function filterDates() {
             resultBody.innerHTML = '';
 
             // Criar cabeçalho da tabela dinamicamente
+            const thCount = document.createElement('th');
+            thCount.innerText = '#';
+            headerRow.appendChild(thCount); // Adiciona a coluna do contador
+
             selectedBimesters.forEach(bimester => {
                 const th = document.createElement('th');
                 th.innerText = bimester;
@@ -73,17 +77,25 @@ function filterDates() {
 
             // Preencher a tabela com as datas filtradas
             const maxDates = Math.max(...Object.values(bimesters).map(b => b.length));
-            
+
             for (let i = 0; i < maxDates; i++) {
                 const tr = document.createElement('tr');
+
+                // Coluna do contador
+                const tdCount = document.createElement('td');
+                tdCount.innerText = (i + 1).toString();
+                tr.appendChild(tdCount);
+
                 selectedBimesters.forEach(bimester => {
                     const td = document.createElement('td');
                     td.innerText = bimesters[bimester][i] || '';
                     tr.appendChild(td);
                 });
+
                 resultBody.appendChild(tr);
             }
-        }
+        }        
+                    
     });
 }
 
